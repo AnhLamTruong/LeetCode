@@ -5,4 +5,4 @@
 2. Coin Change
    My solution is using dynamic programing and bruteforce to store the previous compute as a cache to reuse in the next amount of coin
    Time complexity: O(n\*p) where n is the number of amount and p is the length of the coins given
-   ![Coin Change](http://url/to/img.png)
+   ![Coin Change](http://url/to/img.png)](https://github.com/AnhLamTruong/LeetCode/blob/master/CS497/Coin%20Change.jpg)
